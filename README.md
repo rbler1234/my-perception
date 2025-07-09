@@ -35,10 +35,8 @@ The My-Perception repository focuses on embodied perception, covering both bench
 
 ## MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations
 [**🌐 Homepage**](https://tai-wang.github.io/mmscan/)  | [**💻 Code&Dataset**](https://github.com/OpenRobotLab/EmbodiedScan/tree/mmscan)  | [**📖 arXiv**](https://arxiv.org/abs/2406.09401)
-</div>
 
-<div style="text-align: center;">
-    <img src="assets/MMScan_teaser.png" alt="Dialogue_Teaser" width=70% >
+<img src="assets/MMScan_teaser.png" alt="Dialogue_Teaser" width=70% >
 </div>
 
 ### **Description :**
