@@ -57,6 +57,7 @@ MMScan is the **first** largest ever multi-modal 3D scene dataset and benchmark 
 MMScan covers both *Inter-target and Single-target* cases, spans two reasoning aspects: *Spatial and Attribute*, and operates at both the *Object and Region levels*.
 
 For the Question Answering task, the dataset contains 1M training samples, 300k validation samples, and 300k test samples. For Visual Grounding, the training/validation/test split includes 850k, 200k, and 200k samples respectively.
+
 <div style="text-align: center;">
     <img src="assets/mix.png" alt="Dialogue_Teaser" width=90% >
 </div>
@@ -71,10 +72,9 @@ This directory includes instructions for data download, as well as the mmscan-de
 
 ## OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding
 [**🌐 Homepage**](https://rbler1234.github.io/OSTBench.github.io/)  | [**💻 Code&Dataset**](https://github.com/rbler1234/OST-Bench)  | [**📖 arXiv**](https://arxiv.org/abs/<>)
-</div>
 
-<div style="text-align: center;">
-    <img src="assets/OSTBench_teaser.png" alt="Dialogue_Teaser" width=90% >
+<img src="assets/OSTBench_teaser.png" alt="Dialogue_Teaser" width=90% >
+
 </div>
 
 ### **Description :**
@@ -95,6 +95,7 @@ Recent advances in multimodal large language models (MLLMs) have shown remarkabl
 OST-Bench categorizes questions into three main types: *Agent State*, *Agent-Object Spatial Relationship*, and *Agent Visible Information*, which are further divided into 15 specific subtypes (as shown in the figure).
 
 It covers 1.4K multi-turn dialogues across scenes from ScanNet, Matterport3D, and ARKitScenes, resulting in a total of 10,000 question-answer pairs used as the test set for this benchmark.
+
 <div style="text-align: center;">
     <img src="assets/OSTBench_data.png" alt="Dialogue_Teaser" width=80% >
 </div>
@@ -110,10 +111,8 @@ This directory includes instructions for data download, as well as the evaluatio
 
 ## MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence
 [**🌐 Homepage**](https://runsenxu.com/projects/MMSI_Bench/)  | [**💻 Code&Dataset**](https://github.com/OpenRobotLab/MMSI-Bench)  | [**📖 arXiv**](https://arxiv.org/abs/2505.23764)
-</div>
 
-<div style="text-align: center;">
-    <img src="assets/MMSIBench_teaser.jpg" alt="Dialogue_Teaser" width=90% >
+<img src="assets/MMSIBench_teaser.jpg" alt="Dialogue_Teaser" width=90% >
 </div>
 
 ### **Description :**
@@ -138,6 +137,7 @@ MMSI-Bench possesses the following unique features:
 MMSI-Bench categorizes tasks around three core spatial elements: camera, object, and region, focusing on their positional relationships, attributes, and motion. There are six types of positional relationships: camera-camera, camera-object, camera-region, object-object, object-region, and region-region. The benchmark also includes two types of attributes (measurement and appearance), two types of motion (camera and object), and one multi-step reasoning category. 
 
 Annotated by six 3D vision researchers from diverse real-world scene images, it includes 1,000 challenging questions used as the test set.
+
 <div style="text-align: center;">
     <img src="assets/MMSIBench_data.png" alt="Dialogue_Teaser" width=80% >
 </div>
