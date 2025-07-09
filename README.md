@@ -58,7 +58,7 @@ MMScan covers both *Inter-target and Single-target* cases, spans two reasoning a
 
 For the Question Answering task, the dataset contains 1M training samples, 300k validation samples, and 300k test samples. For Visual Grounding, the training/validation/test split includes 850k, 200k, and 200k samples respectively.
 
-<div style="text-align: center;">
+<div align="center">
     <img src="assets/mix.png" alt="Dialogue_Teaser" width=90% >
 </div>
 
@@ -96,7 +96,7 @@ OST-Bench categorizes questions into three main types: *Agent State*, *Agent-Obj
 
 It covers 1.4K multi-turn dialogues across scenes from ScanNet, Matterport3D, and ARKitScenes, resulting in a total of 10,000 question-answer pairs used as the test set for this benchmark.
 
-<div style="text-align: center;">
+<div align="center">
     <img src="assets/OSTBench_data.png" alt="Dialogue_Teaser" width=80% >
 </div>
 
@@ -138,7 +138,7 @@ MMSI-Bench categorizes tasks around three core spatial elements: camera, object,
 
 Annotated by six 3D vision researchers from diverse real-world scene images, it includes 1,000 challenging questions used as the test set.
 
-<div style="text-align: center;">
+<div align="center">
     <img src="assets/MMSIBench_data.png" alt="Dialogue_Teaser" width=80% >
 </div>
 
