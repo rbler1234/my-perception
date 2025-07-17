@@ -396,7 +396,7 @@ It covers 1.4K multi-turn dialogues across scenes from ScanNet, Matterport3D, an
 
 
 ### **Access**
-The code and data for OST-Bench are located under `./benchmarks/MMScan`.
+The code and data for OST-Bench are located under `./benchmarks/OST-Bench`.
 This directory includes instructions for data download, as well as the evaluation tools along with comprehensive documentation. OST-Bench is also integrated with [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/tree/main), enabling standardized evaluation within the framework.
 
 
@@ -438,5 +438,5 @@ Annotated by six 3D vision researchers from diverse real-world scene images, it 
 
 
 ### **Access**
-The code and data for MMSI-Bench are located under `./benchmarks/MMScan`.
+The code and data for MMSI-Bench are located under `./benchmarks/MMSI-Bench`.
 This directory includes instructions for data download, as well as the evaluation tools along with comprehensive documentation. MMSI-Bench is integrated with [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/tree/main), enabling standardized evaluation within the framework.
