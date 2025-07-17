@@ -27,7 +27,7 @@ import pandas as pd
 import json
 import numpy as np
 from tqdm import tqdm
-from .image_base import ImageBaseDataset
+from .utils.image_base import ImageBaseDataset
 from .utils.judge_util import build_judge
 from smp import *
 from utils import track_progress_rich

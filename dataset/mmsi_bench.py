@@ -11,7 +11,7 @@ from smp import (LMUDataRoot, file_size, load, dump, decode_base64_to_image_file
                    listinstr, gpt_key_set)
 import string
 import glob
-from .image_base import ImageBaseDataset
+from .utils.image_base import ImageBaseDataset
 
 class ImageMCQDataset(ImageBaseDataset):
 

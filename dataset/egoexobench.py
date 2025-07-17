@@ -1,5 +1,5 @@
 from smp import *
-from .video_base import VideoBaseDataset
+from .utils.video_base import VideoBaseDataset
 from .utils import build_judge, DEBUG_MESSAGE
 import torchvision.transforms as T
 from torchvision import transforms
